@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/lawrencek/lawrencek/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<img src="https://github.com/lawrencek76/lawrencek76/blob/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 - :video_game: I am working as a **Solutions Architect**
 - :monocle_face: Interested in everything **Nerdy**
